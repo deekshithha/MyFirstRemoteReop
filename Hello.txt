@@ -1,3 +1,7 @@
 Hello World...
 
+<<<<<<< HEAD
 second edit
+=======
+The first edit
+>>>>>>> 4909d3db8664a172532222a687cc7458a4c3d2f5
